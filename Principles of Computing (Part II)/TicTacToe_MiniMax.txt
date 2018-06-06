@@ -1,9 +1,9 @@
+# http://www.codeskulptor.org/#user43_jO9JiAUMaZ_13.py
+# Author: Yusuf Tatlier
+
 """
 Mini-max Tic-Tac-Toe Player
-Author: Yusuf Tatlier
 """
-
-#http://www.codeskulptor.org/#user43_jO9JiAUMaZ_13.py
 
 import poc_ttt_gui
 import poc_ttt_provided as provided
