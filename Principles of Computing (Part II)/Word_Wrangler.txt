@@ -1,4 +1,5 @@
-http://www.codeskulptor.org/#user43_UDM1cdd9Ql_3.py
+# http://www.codeskulptor.org/#user43_UDM1cdd9Ql_3.py
+# Author: Yusuf Tatlier
 
 """
 Student code for Word Wrangler game
