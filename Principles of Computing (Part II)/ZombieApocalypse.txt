@@ -1,9 +1,9 @@
+# http://www.codeskulptor.org/#user43_MocBfAR9Gb_22.py
+# Author: Yusuf Tatlier
+
 """
 Student portion of Zombie Apocalypse mini-project
 """
-
-#http://www.codeskulptor.org/#user43_MocBfAR9Gb_22.py
-
 
 import random
 import poc_grid
